@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I’m currently working on IWCL in UNIST
+## 🌱 I’m currently learning wireless communications
+## 💬 How to reach me --> seunghy@unist.ac.kr

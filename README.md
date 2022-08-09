@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Profiles:
-* 🔭 I’m currently a graduate student at IWCL in UNIST
+* ✨ I held a bachelor's degree in CUK. (2015 - 2021)
+* 🔭 I’m currently a graduate student at IWCL in UNIST (2022 - )
 * 🌱 My major is wireless communications
   - Especially, I'm currently studying FD MU-MIMO (Full Duplex Multi-user MIMO)
 

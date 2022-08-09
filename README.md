@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Profiles:
-* 🔭 I’m currently working on IWCL in UNIST
-* 🌱 I’m currently learning wireless communications
+* 🔭 I’m currently a graduate student at IWCL in UNIST
+* 🌱 My major is wireless communications
+  - Especially, I'm currently studying FD MU-MIMO (Full Duplex Multi-user MIMO)
+
 * 💬 How to reach me: seunghy@unist.ac.kr

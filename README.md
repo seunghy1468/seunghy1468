@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 * ✨ I held a bachelor's degree in CUK. (2015 - 2021)
 * 🔭 I’m currently a graduate student at IWCL in UNIST (2022 - )
 * 🌱 My major is wireless communications
-  - Especially, I'm currently studying FD MU-MIMO (Full Duplex Multi-user MIMO)
+  - Especially, I'm currently studying full duplex multi-user MIMO
 
 * 💬 How to reach me: seunghy@unist.ac.kr

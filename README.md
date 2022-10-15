@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 * 🌱 My major is wireless communications
   - Especially, I'm currently studying full duplex multi-user MIMO
 
-* 💬 How to reach me: seunghy@unist.ac.kr
+* 💬 How to reach me: seunghy@unist.ac.kr or https://seunghy1468.github.io/

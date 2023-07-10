@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### Profiles:
 * ✨ I held a bachelor's degree in CUK. (Mar. 2015 - Feb. 2022)
-* 🔭 I’m currently a graduate student at UNIST (Mar. 2022 - )
+* 🔭 I’m currently a graduate student at UNIST (Mar. 2022 - Present)
 * ⚡ I'm a member of SIC-X Lab. under supervision of Professor Jinseok Choi at KAIST.
 * 🌱 My major is wireless communications
   - Especially, I'm currently studying full duplex multi-user MIMO systems

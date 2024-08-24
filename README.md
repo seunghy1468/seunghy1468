@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Profiles:
-* ✨ I received a bachelor's degree in CUK. (Mar. 2015 - Feb. 2022)
-* 🔭 I’m currently a graduate student at UNIST (Mar. 2022 - Present)
-* ⚡ I'm a member of SIC-X Lab. under supervision of Professor Jinseok Choi at KAIST.
+* ✨ I received B.S. degree in CUK. (Mar. 2015 - Feb. 2022)
+* 🔭 I received M.S. degree in UNIST (Mar. 2022 - Aug. 2024)
+* ⚡ I’m currently a graduate student at KAIST (Sep. 2024 - Present)
 * 🌱 My major is wireless communications
   - Especially, I'm currently studying full duplex multi-user MIMO systems
 
-* 💬 How to reach me: seunghy@unist.ac.kr, https://seunghy1468.github.io/, and https://seunghy.tistory.com
+* 💬 How to reach me: seunghyeong@kaist.ac.kr, https://seunghy1468.github.io/, and https://seunghy.tistory.com

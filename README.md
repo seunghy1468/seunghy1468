@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 * 🔭 I received M.S. degree in UNIST (Mar. 2022 - Aug. 2024)
 * ⚡ I’m currently a graduate student at KAIST (Sep. 2024 - Present)
 * 🌱 My major is wireless communications
-  - Especially, I'm currently studying full duplex multi-user MIMO systems
+  - I'm currently studying full-duplex multi-user MIMO systems and massive MIMO systems
 
 * 💬 How to reach me: seunghyeong@kaist.ac.kr, https://seunghy1468.github.io/, and https://seunghy.tistory.com
